@@ -1,0 +1,23 @@
+* {
+    font-family: 'Norse', 'Brush Script MT', Verdana, sans-serif;
+}
+
+.home-page {
+    background-color: #F7EEE3;
+}
+
+.title {
+    font-weight: bold;
+    color: #A0A1AD;
+    text-align: center;
+}
+
+.center-img {
+    text-align: center;
+}
+
+.odin {
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
